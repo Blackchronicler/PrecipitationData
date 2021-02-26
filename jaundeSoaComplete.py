@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 29 19:28:21 2020
-
-@author: Ty
-"""  
 
 import os
 
